@@ -1,3 +1,4 @@
-streamlit
-google-genai
-pypdf
+streamlit>=1.32
+pdfplumber>=0.10
+pandas>=2.0
+altair>=5.0

@@ -1,0 +1,138 @@
+{
+  "default_category": "Uncategorized",
+  "default_type": "Variable",
+  "categories": {
+    "Salary & Income": {
+      "type": "Income",
+      "keywords": [
+        "SALARY",
+        "SALARY PROCEEDS",
+        "INTERBANK TRANSFER",
+        "CREDIT INTEREST"
+      ]
+    },
+    "Internal / Person-to-Person Transfers": {
+      "type": "Transfer",
+      "keywords": [
+        "JUICE ACCOUNT TRANSFER",
+        "JUICE TRANSFER",
+        "INSTANT PAYMENT",
+        "MERCHANT INSTANT PAYMENT"
+      ]
+    },
+    "ATM Withdrawal": {
+      "type": "Variable",
+      "keywords": [
+        "ATM CASH WITHDRAWAL",
+        "ATM WITHDRAWAL"
+      ]
+    },
+    "Groceries": {
+      "type": "Variable",
+      "keywords": [
+        "SUPERMARKET",
+        "INTERMART",
+        "WINNER'S",
+        "WINNERS",
+        "DREAM PRICE",
+        "Debit Card Purchase SEVEN SEVEN"
+      ]
+    },
+    "Dining & Takeaway": {
+      "type": "Variable",
+      "keywords": [
+        "KENTUCKY FRIED CHICKEN",
+        "KFC",
+        "PIZZA",
+        "RESTAURANT",
+        "SEVEN SEVEN",
+        "SNACK",
+        "CATERING",
+        "WOK INN"
+      ]
+    },
+    "Coffee & Cafes": {
+      "type": "Variable",
+      "keywords": [
+        "ARTISAN COFFEE",
+        "COFFEE",
+        "Artisan",
+        "Merchant Instant Payment Artisan Coffee - Vivea Mo 6a2a561854b2ae0001eecc52 MCBL60611412244O"
+      ]
+    },
+    "Fuel & Transport": {
+      "type": "Fixed",
+      "keywords": [
+        "OIL FILL",
+        "INDIAN OIL",
+        "IND OIL",
+        "FUEL",
+        "PETROL",
+        "AUTOPARTS",
+        "Debit Card Purchase TOPSHELF"
+      ]
+    },
+    "Online Shopping": {
+      "type": "Variable",
+      "keywords": [
+        "ALIEXPRESS",
+        "TEMU",
+        "AMAZON",
+        "COURTS",
+        "FASHION HOUSE",
+        "DECATHLON"
+      ]
+    },
+    "Subscriptions & Entertainment": {
+      "type": "Fixed",
+      "keywords": [
+        "DISNEY PLUS",
+        "NETFLIX",
+        "SPOTIFY",
+        "CANVA"
+      ]
+    },
+    "Insurance": {
+      "type": "Fixed",
+      "keywords": [
+        "INSURANCE"
+      ]
+    },
+    "Health & Pharmacy": {
+      "type": "Fixed",
+      "keywords": [
+        "PHARMACY",
+        "PHARMACIE",
+        "MED LAB",
+        "SANTE"
+      ]
+    },
+    "Bank Fees & Charges": {
+      "type": "Fixed",
+      "keywords": [
+        "CHARGE",
+        "VAT ON REFILL",
+        "REFILL AMOUNT"
+      ]
+    },
+    "Standing Orders": {
+      "type": "Fixed",
+      "keywords": [
+        "STANDING ORDER"
+      ]
+    },
+    "Government & Tax": {
+      "type": "Fixed",
+      "keywords": [
+        "REVENUE AUTHORITY",
+        "MRA"
+      ]
+    },
+    "SELF-TRANSFER": {
+      "type": "Variable",
+      "keywords": [
+        "JUICE Account Transfer MR SAMUEL NOAH JUBAIN"
+      ]
+    }
+  }
+}
